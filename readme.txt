@@ -1,3 +1,4 @@
+fix bug 101
 test
 Git is a version control system.
 Git is free software.
